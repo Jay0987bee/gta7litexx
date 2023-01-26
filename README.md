@@ -1,1 +1,1 @@
-# gta7litexx
+# gta7lite recovery device tree
